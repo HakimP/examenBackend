@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  fecha: 2016-08-17
+  precio: 1.5
+  salon_id: 
+
+two:
+  nombre: MyString
+  fecha: 2016-08-17
+  precio: 1.5
+  salon_id: 
